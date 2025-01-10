@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617783458828",
+    "project_id": "ecocom-73c8b",
+    "storage_bucket": "ecocom-73c8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617783458828:android:0b4d079dbb5b4b75fd4229",
+        "android_client_info": {
+          "package_name": "com.example.ecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9lBCREsZY6JB51EfkA0Ifvw84fyQ7yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
